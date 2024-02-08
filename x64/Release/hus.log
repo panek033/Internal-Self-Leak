@@ -1,0 +1,233 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+  dllmain.cpp
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\include\Menu.hpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\sdk.h(338,25): warning C4311: 'type cast': pointer truncation from 'weapon *' to 'int32_t'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\sdk.h(338,25): warning C4302: 'type cast': truncation from 'weapon *' to 'int32_t'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\sdk.h(1305,34): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\sdk.h(1305,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\sdk.h(1305,46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\sdk.h(1305,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\render.h(45,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\render.h(49,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\render.h(50,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\render.h(51,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\render.h(52,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(265,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(272,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(281,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(286,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(294,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(318,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(325,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(329,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(330,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(331,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(332,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(338,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(402,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(402,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(406,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(436,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(440,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(519,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(526,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(526,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(531,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(531,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\custom.h(535,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\vector.h(79,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\vector.h(79,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\vector.h(79,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(255,32): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(334,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(341,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(342,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(344,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(345,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(365,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(372,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(382,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(389,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(413,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(413,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(415,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(415,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(780,219): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(780,200): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(780,177): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(780,173): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(780,163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(797,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(826,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\hooking.h(827,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\memory.h(21): warning C4715: 'read<float>': not all control paths return a value
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\memory.h(21): warning C4715: 'read<uworld *>': not all control paths return a value
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\memory.h(21): warning C4715: 'read<mesh *>': not all control paths return a value
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\memory.h(21): warning C4715: 'read<uobject *>': not all control paths return a value
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\memory.h(21): warning C4715: 'read<ugameviewportclient *>': not all control paths return a value
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\Cheat\memory.h(21): warning C4715: 'read<tarray<ulocalplayer *> >': not all control paths return a value
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  hookmain.cpp
+  Console.cpp
+  D3D11Window.cpp
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\include\Menu.hpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/src/D3D11Window.cpp')
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\font\icons.h(2607,1): warning C4005: 'ICON_MIN_FA': macro redefinition
+  (compiling source file '/src/D3D11Window.cpp')
+  C:\Users\HusNotUdAtAll\Desktop\Rive Public\src\IconsFontAwesome5.h(9,1):
+  see previous definition of 'ICON_MIN_FA'
+  
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\src\D3D11Window.cpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/src/D3D11Window.cpp')
+  
+  Game.cpp
+  Hooking.cpp
+C:\Users\HusNotUdAtAll\Desktop\Rive Public\include\Menu.hpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/src/Hooking.cpp')
+  
+  Menu.cpp
+  Generating Code...
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\admin\Downloads\KeyAuthLibs\KeyAuthLibrary64\nlohmann\detail\iterators\iter_impl.hpp(304): warning C4715: 'nlohmann::detail::iter_impl<nlohmann::basic_json<std::map,std::vector,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,bool,__int64,unsigned __int64,double,std::allocator,nlohmann::adl_serializer,std::vector<unsigned char,std::allocator<unsigned char> > > >::operator->': not all control paths return a value
+C:\Users\admin\Downloads\KeyAuthLibs\KeyAuthLibrary64\nlohmann\json.hpp(3691): warning C4715: 'nlohmann::basic_json<std::map,std::vector,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,bool,__int64,unsigned __int64,double,std::allocator,nlohmann::adl_serializer,std::vector<unsigned char,std::allocator<unsigned char> > >::operator[]<char const >': not all control paths return a value
+  All 1486 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+library_x64.lib(auth.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(auth.obj)' or at ''; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(utils.obj)' or at ''; linking object as if no debug info
+  hus.vcxproj -> C:\Users\HusNotUdAtAll\Desktop\Rive Public\build\RzChromaSDK64.dll
